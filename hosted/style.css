@@ -21,12 +21,15 @@ body {
 header {
 	height: 102px;
 }
+footer {
+	margin: 12px;
+}
 article {
 	display: table;
 	width: 600px;
 	max-width: 940px;
 	margin: 7px auto 23px auto;
-	padding: 0 25px;
+	padding: 0 25px 14px 25px;
 	word-wrap: break-word;
 	word-break: break-word;
 	background-color: #eeeeee;
