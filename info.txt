@@ -1,0 +1,37 @@
+~Section 230
+This Website discusses Section 230 of United States Communications Act.
+This website is not completed yet - please comeback later to see the finished version.
+To advance to the next page, click the link at the bottom of each page.
+!title_tall.png
+~Intro
+There is a fundamental balance between the activities individuals naturally have the right to do and those which are deemed bad.
+For example sautéing with a frying pan is perfectly acceptable.
+!fry.gif
+Meanwhile, hitting someone on the head with the very same frying pan is not.
+!hit.gif
+The lines are drawn in the social contracts that we call laws.
+We have laws that dictate that harming others is illegal.
+!illegality meter.png
+We also have laws that dictate that those who break the laws should be punished.
+!cop.gif
+As long as laws are mutually beneficial, enforced, and justly applied...
+!think.gif
+It is in everyone's best interest to follow them.
+!think2.gif
+The 3 branches of the US government exist to carry out these three duties.
+As US citizens it is our responsibility to elect those who will ensure our government does these well.
+(Or, at least know of and have opinions about the laws that we are bound to.)
+!government.png
+~What is Section 230
+Part of one of these laws is Section 230.
+Section 230 is a very important provision within the United States Communications Act.
+I will be discuss why it is so important.
+!title_rainbow.gif
+Lets imagine that <span style="color:#006669;">Cyan</span> hit <span style="color:#623381;">Purple</span> with the frying pan.
+!dead.png
+Should the frying pan retailer be held liable for <span style="color:#006669;">Cyan</span>'s actions?
+In this case obviously not - they did not expect nor intend <span style="color:#006669;">Cyan</span> to use it harm <span style="color:#623381;">Purple</span> with it.
+!frying pan legality.png
+But what if the technology was a machine gun - designed exclusively for harming people.
+Many people no longer believe it to be acceptable.
+!what if gun.gif
