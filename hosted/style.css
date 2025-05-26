@@ -77,3 +77,8 @@ h1 {
 img {
 	image-rendering: pixelated;
 }
+
+em {
+	font-style: italic;
+	text-decoration: underline;
+}

@@ -1,6 +1,6 @@
 ~Section 230
 This Website discusses Section 230 of United States Communications Act.
-This website is not completed yet - please comeback later to see the finished version.
+<em>This website is not completed yet - please comeback later to see the finished version.</em>
 To advance to the next page, click the link at the bottom of each page.
 !title_tall.png
 ~Intro
