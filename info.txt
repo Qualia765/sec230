@@ -1,6 +1,6 @@
 ~Section 230
 This Website discusses Section 230 of United States Communications Act.
-<em>This website is not completed yet - please comeback later to see the finished version.</em>
+<em>This website has more content</em> - but is still not completed yet - please comeback later to see the finished version.
 To advance to the next page, click the link at the bottom of each page.
 !title_tall.png
 ~Intro
@@ -35,3 +35,25 @@ In this case obviously not - they did not expect nor intend <span style="color:#
 But what if the technology was a machine gun - designed exclusively for harming people.
 Many people no longer believe it to be acceptable.
 !what if gun.gif
+Section 230 addresses this discussion for the internet.
+Most interaction on the internet is through means of a centralized platform.
+!computer.gif
+These platforms facilitate spreading information, sharing images, and shopping between users.
+Similar to sautéing with the frying pan - these actions are perfectly acceptable.
+!uses of internet.png
+But if the information is private [1], the images are compromising [3], or the listings are a scam [2], then it is not.
+!bad uses of internet.png
+The question is where these platforms fall on the line from misused frying pan to machine used for intended purpose.
+!platforms role.gif
+This question is complicated by the fact the platforms sort, moderate, and even promote specific content - which might include these unacceptable media.
+!platforms filter.gif
+Section 230 says that the platform is never at fault - unless the issue is related to CSAM, sex trafficking or copyright. [4]
+(Copyright is instead handled by DMCA - which is a even larger can of worms which will not be discussed here) [5]
+!section230says.png
+~Is Section 230 Good
+But is Section 230 good?
+I will now preform an analysis.
+I will use my preferred ethical framework, utilitarianism with a subjective utility function.
+Along the way I shall, as I already have, make use of social contracts to explain win win agreements, and virtue ethics as a heuristic for shortcut evaluation of the utility function.
+!title_rainbow.gif
+We can consider this with a decision matrix.
