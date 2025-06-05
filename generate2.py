@@ -49,8 +49,10 @@ def generate_html_files():
             # Regular text line - append to TEXT
             if line.strip():  # Only add non-empty lines
                 TEXT.append(line)
+    
+    create_html_file(PAGE, SECTION, ["More coming soon!"], template_content, "TODO.gif", False)
 
-def create_html_file(page_num, section, text_list, template, image_src):
+def create_html_file(page_num, section, text_list, template, image_src, next_link=True):
     # Determine filename
     if page_num == 0:
         filename = 'hosted/index.html'
@@ -67,9 +69,10 @@ def create_html_file(page_num, section, text_list, template, image_src):
         replacement_content += f'      <p>{text}</p>\n'
     
     replacement_content += '</div>\n'
-    replacement_content += '<div class="next">\n'
-    replacement_content += f'      > <a href="{page_num + 1}.html">==></a>\n'
-    replacement_content += '</div>\n'
+    if next_link:
+        replacement_content += '<div class="next">\n'
+        replacement_content += f'      > <a href="{page_num + 1}.html">==></a>\n'
+        replacement_content += '</div>\n'
     
     # Add "Go Back" link logic
     if page_num == 0:

@@ -63,8 +63,23 @@ Most complaints come from either from feeling that platforms are too restrict - 
 These perspectives can be placed on a spectrum where with Section 230 right in the middle.
 !1axis.png
 But we can see this actually 2d plane of options, where right now Section 230 is primarily focused on the rights of the platforms.
-For my argument I will focus on the extremes of this diagram.
 !triangle.gif
+~Not Allowed To Regulate
+Platforms being banned from moderation comes from an argument to for 'free speech'.
+!not_allowed_to_regulate.gif
+Free speech is important because it allows dissent from the status quo and the power that be. It benefits both minorities and trolls.
+!TODO.gif
+However, the perspective of banning moderation is not held by very many because of its many many flaws.
+For example:
+ - No way to prevent spam bots <br> - No way to curb misinformation<br> - No way to prevent constant hateful trolling<br> - etc
+Furthermore, these issues dont really go away with time. Spamming and trolling all pollute conversations that they are part of and spamming and misinformation are far easier than careful consideration and accuracy. Thus these negatives are always able to overcome.
+Platforms simply can not exist without some regulation.
+There exist platforms with very minimal moderation - anonymous image boards like 4 chan - and all the people that I have talked to online that have spent substantive time on these platforms regret it.
+Needless to say, it is not something for everyone, and a law that mandates lack of moderation would be obviously foolish.
+!TODO.gif
+~Held Liable For Everything
+
+
 
 not allowed to moderate
 enforce rules equally
