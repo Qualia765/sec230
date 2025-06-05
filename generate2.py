@@ -1,5 +1,9 @@
 import os
 
+replacements = {
+    "Section 230" : '<img src="img/section230_mini.png" alt="Section 230" style="height:14px;transform:translate(0,2px)">'
+}
+
 def generate_html_files():
     # Initialize variables
     PAGE = 0
@@ -40,6 +44,8 @@ def generate_html_files():
             SECTION = line[1:].strip()
             
         else:
+            for replacement in replacements:
+                line = line.replace(replacement, replacements[replacement])
             # Regular text line - append to TEXT
             if line.strip():  # Only add non-empty lines
                 TEXT.append(line)

@@ -57,3 +57,26 @@ I will use my preferred ethical framework, utilitarianism with a subjective util
 Along the way I shall, as I already have, make use of social contracts to explain win win agreements, and virtue ethics as a heuristic for shortcut evaluation of the utility function.
 !title_rainbow.gif
 We can consider this with a decision matrix.
+We will consider different possible alternate version of the law and then analyze short-term and long-term impact.
+!decision matrix template.png
+Most complaints come from either from feeling that platforms are too restrict - so users should get more freedoms. Or that platforms get off too free and must be regulated more.
+These perspectives can be placed on a spectrum where with Section 230 right in the middle.
+!1axis.png
+But we can see this actually 2d plane of options, where right now Section 230 is primarily focused on the rights of the platforms.
+For my argument I will focus on the extremes of this diagram.
+!triangle.gif
+
+not allowed to moderate
+enforce rules equally
+not liable
+report and help law enforcement
+tiered accountability
+complete accountability
+
+demonstrate "good faith"
+moderate requirements
+require permits
+
+not allowed to promote content
+
+allowed to modify content to make it legal
